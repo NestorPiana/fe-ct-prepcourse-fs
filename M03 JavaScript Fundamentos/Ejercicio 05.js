@@ -87,7 +87,6 @@ function esVocal(letra) {
    else if (letra == 'u'){
       return 'Es vocal';
    }
-
    return 'Dato incorrecto';
 }
 
